@@ -10,7 +10,7 @@ This is my second project done using Python, so there are possibly ways to make 
 To open the website, simply run the *fresh_tomatoes.py* file with Python 2.7 installed. The pictures on the website can be hovered over for info on that movie, or clicked to play a YouTube trailer of that movie.
 
 ## Dependencies:
-This game is run on Python 2.7. The trailers are hosted by YouTube.
+This program is run on Python 2.7. The trailers are hosted by YouTube.
 * Python 2.7: https://www.python.org/downloads/release/python-2714/
 * YouTube: https://www.youtube.com/
 
