@@ -2,7 +2,7 @@
 
 ## About:
 These python files were made for a Python Project for a Udacity Intro to Programming class. When run, the code dynamically creates an HTML file, filling in data from the *entertainment_center.py* file after parsing it using the *media.py* file. The compiled HTML file is then opened in the browser.
-This is my first project done using Python, so there are likely ways to make the code more concise and efficient. Regardless, I enjoyed learning Python through this project.
+This is my second project done using Python, so there are possibly ways to make the code a little more concise and efficient. Regardless, I enjoyed learning Python through this project.
 
 ![Cover Image](img/cover.png)
 
